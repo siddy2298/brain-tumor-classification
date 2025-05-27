@@ -1,0 +1,2 @@
+# Brain-Tumor-Classification
+This project is a web-based application designed to classify brain tumors using deep learning techniques. The system leverages a trained neural network model to accurately detect and classify tumor types from medical images. 
